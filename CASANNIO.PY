@@ -1,0 +1,51 @@
+logo = """""
+            BY MAHITxxBOY
+         create by CMK GAMING
+        Follow on instagram:mahit_boy
+░█████╗░███╗░░░███╗██╗░░██╗
+██╔══██╗████╗░████║██║░██╔╝
+██║░░╚═╝██╔████╔██║█████═╝░
+██║░░██╗██║╚██╔╝██║██╔═██╗░
+╚█████╔╝██║░╚═╝░██║██║░╚██╗
+░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝
+░██████╗░░█████╗░███╗░░░███╗███████╗██████╗░
+██╔════╝░██╔══██╗████╗░████║██╔════╝██╔══██╗
+██║░░██╗░███████║██╔████╔██║█████╗░░██████╔╝
+██║░░╚██╗██╔══██║██║╚██╔╝██║██╔══╝░░██╔══██╗
+╚██████╔╝██║░░██║██║░╚═╝░██║███████╗██║░░██║
+
+  CMK GAMER
+   ▄︻̷̿┻̿═━一
+   THE CMK GAMER
+   THE HACKER ℒℴνℯ
+   THE GAME CHANGER ℒℴνℯ
+   meghalaya hackers
+   ℒℴνℯ ▄︻̷̿┻̿═━一
+\033[1;91m=======================================
+\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
+\033[1;96mYouTube \033[1;93m: \033[1;92mPakistani Hackers
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
+\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
+\033[1;91m======================================="""
+def tik():
+	titik = ['.   ','..  ','... ']
+	for o in titik:
+		print logo
+		print("\r\033[1;96m \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+back = 0
+berhasil = []
+cekpoint = []
+oks = []
+id = []
+listgrup = []
+vulnot = "\033[31mNot Vuln"
+vuln = "\033[32mVuln"
+os.system("clear")
+print "\033[1;96m ========================================="
+print  """\033[1;91m=======================================
+\033[1;96mAuthor  \033[1;93m: \033[1;92mcasannio1
+\033[1;96mYouTube \033[1;93m: \033[1;92mmahitxxboy
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/casannio1/FFGAMER
+\033[1;96mpage \033[1;93m: \033[1;92mhttps://www.instagram.com/mahit_boy
+\033[1;91m======================================="""
+print " \x1b[1;93m============================================================="
